@@ -1,5 +1,7 @@
 ### Hi there 👋
+
 ---
+### 👨‍💻 About me:
 Hello, I am Hasmik, a Front-End Developer, who treats any job with great responsibility.
 
 - 🔭 I’m working as a Front-End Developer
