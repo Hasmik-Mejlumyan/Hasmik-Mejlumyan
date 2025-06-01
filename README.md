@@ -1,63 +1,72 @@
-### Hi there 👋
+### 👋 Hi there!
+
+I'm **Hasmik Mejlumyan**, a passionate Front-End Developer with 4+ years of professional experience, driven by clean code, thoughtful UI, and continuous learning.  
+I’ve worked in teams of all sizes, mentored junior developers, and love turning complex problems into intuitive solutions.
 
 ---
-### 👩‍💻 About me:
-Hello, I am Hasmik, a Front-End Developer, who treats any job with great responsibility.
 
-- 🔭 I’m working as a Front-End Developer
-- 💬 I consider the following statement to be true:
-      ''Strong characters grow stronger due to increased power, while weak ones perish under the burden of undeserved happiness. ''
+### 👩‍💻 About Me
+- 🔭 Currently working as a Front-End Developer building production-grade apps
+- 📚 Constantly learning modern frontend trends and techniques
+- 🤝 Small-scale mentoring experience for junior developers and interns
+- 🛠️ Love working in collaborative teams and delivering business-focused features
+- 💬 Favorite mindset: _"Great responsibility leads to great growth."_
+- 🌍 Portfolio: [hasmikmejlumyan.com](https://hasmikmejlumyan.com)
+
+### 🛠️ Tech Stack & Tools
+
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff&style=for-the-badge)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=fff&style=for-the-badge)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=fff&style=for-the-badge)
+![Pinia](https://img.shields.io/badge/-Pinia-F6D860?logo=pinia&logoColor=000&style=for-the-badge)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=fff&style=for-the-badge)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=000&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=fff&style=for-the-badge)
+![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?style=for-the-badge)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=fff&style=for-the-badge)
+![LESS](https://img.shields.io/badge/-LESS-1D365D?logo=less&logoColor=fff&style=for-the-badge)
+![Ant Design](https://img.shields.io/badge/-AntDesign-0170FE?logo=ant-design&logoColor=fff&style=for-the-badge)
+![Socket.IO](https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=fff&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=fff&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
+
+<!--
+![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=fff&style=for-the-badge)
+![MUI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=fff&style=for-the-badge)
+-->
+
 ---
 
-### :computer: Languages, Frameworks and Libraries :
+## 🚀 Featured Projects
 
-<div>
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Nodejs" alt="Nodejs" width="40" height="40"/>&nbsp;
-  </div>
-  <div>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40"         height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Nextjs" alt="Nextjs" width="40" height="40" />&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-      <img src="https://cdn.worldvectorlogo.com/logos/recoil-js.svg" title="Recoil" alt="Recoil " width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
-  </div>
-  <div>
-      <img src="https://gw.alipayobjects.com/zos/rmsportal/rlpTLlbMzTNYuZGGCVYM.png" title="Ant design" alt="Ant design" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
-      <img src="https://seeklogo.com/images/S/shadcn-ui-logo-EF735EC0E5-seeklogo.com.png?v=638421451470000000" title="Shadcn/UI" alt="Shadcn/UI" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" title="Less" alt="Less" width="40" height="40"/>&nbsp;
+### [MYSTiQUE AI](https://mystiqueai.com/)
+MYSTiQUE TEAM helps you build AI-powered workflows with intelligent AI TEAMS that automate tasks, analyze data, and drive decision-making. Empower your enterprise with AI-enabled business processes. Our Agentic AI platform supports scalable, multi-agent collaboration, integrates with 100+ LLMs and enterprise tools, and ensures data security with source tracking and trust architecture.
 
-  </div>
-  <div>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" title="Socket.io" alt="Socket.io" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
-  </div>
-</div>
+### [Eleap PMP](https://performance.eleapsoftware.com/?_ga=2.48157294.893854035.1736796949-742825722.1683621977&_gl=1%2Acqjnzi%2A_ga%2ANzQyODI1NzIyLjE2ODM2MjE5Nzc.%2A_ga_SP261RV724%2AMTczNjc5Njk0OS42LjAuMTczNjc5Njk1NC41NS4wLjEzOTUyMjc3MDA.)
+The eLeaP® performance management platform offers agile performance management with goal alignment, eNPS surveys, 1-on-1s, check-ins, PulsePoint, and weekly task tracking for maximum engagement. It’s a customizable solution for organizations of any size, with quick setup and easy performance reviews. Paired with a powerful yet user-friendly learning management system, it equips teams with the tools they need to succeed.
 
-### 🛠️ Tools :
-<div>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original.svg" title="PHPStorm" alt="PHPStorm" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="WebStorm" alt="WebStorm" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" title="Filezilla" alt="Filezilla" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="yarn" alt="yarn" width="40" height="40"/>&nbsp;
-</div>
+### [Worky Reppy](https://worky.am/)
+Optimize your business with insights from time. Time is everything. Do you understand how your business is using it? Worky-Reppy optimizes decision-making, collaboration and productivity by revealing the insights of time. With our easy-to-use tagging, monitoring and reporting features, you’ll spend less time tracking and more time on the work you do best.
 
-### :bulb: Keen on :
-<div>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-</div>
+---
+
+### 📫 Contact Me
+
+- 🌐 Website: [hasmikmejlumyan.com](https://hasmikmejlumyan.com)
+- 📩 Email: hasmik.mejlumyan01@gmail.com
+- 🧵 LinkedIn: https://www.linkedin.com/in/hasmik-mejlumyan-b88808207/
+
+---
+
+I believe in continuous growth, creative problem-solving, and sharing knowledge with others.  
+If you're looking for a reliable and collaborative Front-End Developer let’s connect!
+
+Thanks for visiting! 🌱
