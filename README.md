@@ -37,6 +37,8 @@ I’ve worked in teams of all sizes, mentored junior developers, and love turnin
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
+![Caude](https://img.shields.io/badge/Claude%20Code-D97757?logo=claude&logoColor=white&style=for-the-badge)
+![Github Copilot](https://img.shields.io/badge/Github%20Copilot-000000?logo=githubcopilot&logoColor=white&style=for-the-badge)
 
 <!--
 ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=fff&style=for-the-badge)
