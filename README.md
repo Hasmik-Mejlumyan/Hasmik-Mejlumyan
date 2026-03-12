@@ -65,7 +65,7 @@ Optimize your business with insights from time. Time is everything. Do you under
 
 - 🌐 Website: [hasmikmejlumyan.com](https://hasmikmejlumyan.com)
 - 📩 Email: hasmik.mejlumyan01@gmail.com
-- 🧵 LinkedIn: https://www.linkedin.com/in/hasmik-mejlumyan-b88808207/
+- 🧵 LinkedIn: https://www.linkedin.com/in/hasmik-mejlumyan
 
 ---
 
